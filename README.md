@@ -2,7 +2,7 @@
 ## A discord bot created to increase the fun on Smite
 
 ### Install
-- `npm i`
+- run the command `npm i`
 - Create a .env file on root with a `DISCORD_TOKEN=<YOUR_TOKEN_HERE>`
 
 ### Run 
