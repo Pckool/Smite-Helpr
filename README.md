@@ -7,3 +7,11 @@
 
 ### Run 
 To tun the bot, use `npm run start`
+
+### Planned Features
+[] Multi team/channel support
+[] Opt in/out for members in a channel
+[] Team naming
+[] Team captians?
+[] Laneing
+[] Gamemode Considerations
